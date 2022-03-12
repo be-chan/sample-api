@@ -6,4 +6,4 @@ application up and running.
 Things you may want to cover:
 
 ### サンプルapi
-- sample_csv_appのapi_requestコントローラーのconnectionでローカルで二つとも起動して、呼ぶ感じ
+- sample_csv_appのapi_requestコントローラーのconnectionでローカルで二つとも起動して、呼ぶ
